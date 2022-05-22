@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
+url: "hmdoanpl.github.io/lodzkie-zabytki"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://hmdoanpl.github.io/lodzkie-zabytki/gallery/"  
+  - JOURNAL: "https://hmdoanpl.github.io/lodzkie-zabytki/journal/"
+  - ABOUT: "https://hmdoanpl.github.io/lodzkie-zabytki/about/"
 
 # All translation keys
 translations:
@@ -43,8 +43,8 @@ translations:
   permalink: "/404.html"
 
 # Server
-destination:      	 ./_site
-port:             	 4000
+destination:         ./_site
+port:                4000
 
 
 # Build settings
