@@ -4,7 +4,7 @@ title:      "Ul. Andrzejewskiej"
 subtitle:   "Melina za rurami"
 active: journal
 image:
-  feature: "pc001.jpg"
+  feature: "slider/home01.jpg"
 date:       2016-03-25
 header-img: "slider/home01.jpg"
 comments: false
