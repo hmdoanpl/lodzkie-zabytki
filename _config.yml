@@ -33,8 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://hmdoanpl.github.io/lodzkie-zabytki/gallery/"  
-  - JOURNAL: "https://hmdoanpl.github.io/lodzkie-zabytki/journal/"
+  - GALLERY: "https://hmdoanpl.github.io/lodzkie-zabytki/gallery/gallery01/"  
   - ABOUT: "https://hmdoanpl.github.io/lodzkie-zabytki/about/"
 
 # All translation keys
