@@ -4,30 +4,15 @@ title:      "ul. Smolarska"
 subtitle:   "Meles Bity Frajer"
 active: journal
 image:
-  feature: "img/toZabytki/18.jpg"
-date:       2016-03-15
+feature: "18.jpg"
+date:       2022-05-15
 header-img: "img/toZabytki/18.jpg"
 comments: false
 ---
 
-<p>Now this same morning the Wicked Witch came to the door of her castle and looked out with her one eye that could see far off.  She saw all her wolves lying dead, and the strangers still traveling through her country.  This made her angrier than before, and she blew her silver whistle twice.</p>
+<p>Każdy artysta, a szczególnie ten uliczny wie, że stacja transformatorowa to najlepsze miejsce na swoje dzieła. Na pewno wie to Meles, którego pseudonim(?) stał się centrum zainteresowania jednego z łódzkich malarzy. Ta prosta, ale dobitna forma wypowiedzi pokazuje, że nie potrzeba wiele, aby nasza sztuka zaistniała w przestrzeni publicznej.</p>
 
-<p>Straightway a great flock of wild crows came flying toward her, enough to darken the sky.</p>
+<p>Performance? Happening? Łódzcy artyści mówią temu stop! Tylko żywa forma przekazu zakotwiczona w życiu publicznym ma szansę dotrzeć do serc każdego i każdej z nas. Nie można również zapominać, że uroku temu niepodważalnemu przejawowi geniuszu dodaje fakt, że znajduje się on w bliskim sąsiedztwie ze stadionem miejskim, na którym swoje mecze rozgrywa drużyna piłkarska Widzew Łódź. A jak każdy wie, sport, a w szczególności piłka nożna, to najwyższa forma kultury, która definiuje człowieka jako istotę myślącą. Meles, kimkolwiek i gdziekolwiek jesteś, z fartem.
+</p>
 
-<p>And the Wicked Witch said to the King Crow, "Fly at once to the strangers; peck out their eyes and tear them to pieces."</p>
-
-<p>The wild crows flew in one great flock toward Dorothy and her companions.  When the little girl saw them coming she was afraid.</p>
-
-<p>But the Scarecrow said, "This is my battle, so lie down beside me and you will not be harmed."</p>
-
-<p>So they all lay upon the ground except the Scarecrow, and he stood up and stretched out his arms.  And when the crows saw him they were frightened, as these birds always are by scarecrows, and did not dare to come any nearer.  But the King Crow said:</p>
-
-<p>"It is only a stuffed man.  I will peck his eyes out."</p>
-
-<p>The King Crow flew at the Scarecrow, who caught it by the head and twisted its neck until it died.  And then another crow flew at him, and the Scarecrow twisted its neck also.  There were forty crows, and forty times the Scarecrow twisted a neck, until at last all were lying dead beside him.  Then he called to his companions to rise, and again they went upon their journey.</p>
-
-<p>When the Wicked Witch looked out again and saw all her crows lying in a heap, she got into a terrible rage, and blew three times upon her silver whistle.</p>
-
-<p>Forthwith there was heard a great buzzing in the air, and a swarm of black bees came flying toward her.</p>
-
-<p>Placeholder text by <a href="http://www.fillerati.com/">Fillerati</a>. Photography by <a href="https://unsplash.com">UNSPLASH</a>.</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.194897920338!2d19.514571299999997!3d51.766044099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bcb5073528253%3A0x1ac4cb039f8b2c7!2zV8WCb2R6aW1pZXJ6YSBTbW9sYXJrYSwgOTAtMDAxIMWBw7Nkxbo!5e0!3m2!1sen!2spl!4v1653481061894!5m2!1sen!2spl" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
