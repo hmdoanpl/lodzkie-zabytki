@@ -11,7 +11,8 @@ comments: false
 
 ## Ul. Limanowskiego 15 – (R)ewolucja
 
-![03](img/toZabytki/14.jpg)
+![03](../img/toZabytki/14.jpg)
+![03](./img/toZabytki/14.jpg)
 ![03](toZabytki/14.jpg)
 ![03](14.jpg)
 <img src="img/toZabytki/14.jpg">
