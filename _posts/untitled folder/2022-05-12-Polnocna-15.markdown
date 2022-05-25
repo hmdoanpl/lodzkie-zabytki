@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Ul. Północna 15"
+subtitle:   "Ramówka"
+active: journal
+image:
+  feature: "07.jpg"
+header-img: "img/toZabytki/07.jpg"
+comments: false
+---
+
+## Ul. Północna 15 – Ramówka
+
+![03](/img/toZabytki/07.jpg)
+
+<p>
+8:00 – Dzień Zły, Łódź!
+10:30 – Oszukuj innych, nie państwo
+12:00 – Pasmo reklamowe: Nie sprzątaj po swoim psie!
+12:15 – Osiedlowy monitoring
+13:30 – Parkowanie niedozwolone – zrób to i ty!
+15:00 – Jeśli oni mogą to i ja mogę
+16:00 – Sąsiad: gnida czy oszust i dlaczego oba?
+17:00 – Jak nie trzeźwieć? – Prosty poradnik
+18:00 – Transmisja Mszy Świętej z Jasnej Góry
+19:00 – Wieczorne pasmo dla najmłodszych: Patusiaki, odc. 12 i 13
+19:30 – Pasmo reklamowe: V Ogólnopolskie Niszczenie Dóbr przez Narodowców i Kiboli
+19:45 – Wiadomości. Temat dnia: Krajowa gospodarka wzorcem dla innych
+20:30 – Wieczorne kino: Prezydent – Ręka Boga
+23:00 – Nocne pasmo dla dorosłych: Stepująca Opozycja
+1:00 – Zakończenie nadawania: Całonocne Czuwanie
+</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2468.4905826738573!2d19.456502!3d51.77891940000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bcadbcbc233ef%3A0xfad001df54cc1c34!2zUMOzxYJub2NuYSAxNSwgOTEtNDIwIMWBw7Nkxbo!5e0!3m2!1sen!2spl!4v1653513176988!5m2!1sen!2spl" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

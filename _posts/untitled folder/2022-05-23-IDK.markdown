@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "IDK"
+subtitle:   "Ostatnia wieczerza"
+active: journal
+image:
+  feature: "19.jpg"
+header-img: "img/toZabytki/19.jpg"
+comments: false
+---
+
+## IDK2 – Ostatnia wieczerza?
+
+![03](img/toZabytki/19.jpg)
+
+<p>Marihuana – zaburzenie percepcji, tymczasowe upośledzenie pamięci krótkotrwałej, osłabienie koncentracji,                                               NIELEGALNE</p>
+<p>LSD – zaburzenie percepcji, zaburzenie poczucia czasu, możliwość występowania hipotermii, gorączki czy bezsenność, silnie uzależnia         NIELEGALNE</p>
+<p>Metamfetamina – skrócenie drzewa neuronowego, silne pobudzenie seksualne, upośledzenie układu nerwowego, silnie uzależnia               NIELEGALNE</p>
+<p>Tytoń – możliwość wywołania raka, chorób układu krążenia i układu oddechowego, silnie uzależnia                                                             LEGALNE</p>
+<p>Alkohol – obniżenie sprawności układu nerwowego, zaburzenia reakcji, tymczasowe upośledzenie pamięci krótkotrwałej, osłabienie koncentracji, zaburzenie precyzyjnego myślenia i wysławiania się                             LEGALNE</p>
+

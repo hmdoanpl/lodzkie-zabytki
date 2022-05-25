@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Ul. Legionów 42"
+subtitle:   "Muzyk Patriota"
+active: journal
+image:
+  feature: "03.jpg"
+header-img: "img/toZabytki/03.jpg"
+comments: false
+---
+
+## Ul. Legionów 42 – Muzyk Patriota
+
+![03](img/toZabytki/03.jpg)
+
+<p>
+Wielu historyk podkreśla jakim Chopin był patriotą, a do tego wybitnym twórcą. Swój geniusz oczywiście zawdzięcza tylko i wyłącznie Polsce i nigdzie indziej nie nauczyłby się tego, co nad Wisłą. Mało kto jednak zdaje sobie z tego sprawę, że Fryderyk był jednym z największych ulicznych twórców. Co jednak ważniejsze – był fanatykiem piłki nożnej. Wszędzie, gdzie tylko się pojawiał wymalowywał na murach symbole sprzyjające jednej stronie lub obrażające drugą. Chopin nigdy nie miał żony, ponieważ całe swoje serce oddał Łódzkiemu Klubowi Sportowemu.</p>
+<p>
+W swoich podróżach z Francji do Polski zawsze odwiedzał w pierwszej kolejności Łódź, aby móc obejrzeć mecz swojej ukochanej drużyny. Samo oglądanie to było jednak dla niego za mało – śpiewał kibolskie przyśpiewki (wiele sam stworzył), obrażał przeciwników i niszczył prywatne mienie. Wszyscy Polacy są z niego dumni, a dla wielu jest wzorem do naśladowania. Jak widać – dużo osób bierze z niego przykład.
+</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2468.6584331872887!2d19.4460353!3d51.7758512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bcacfc43b0a05%3A0xe5d66c827e7dbd44!2zTGVnaW9uw7N3IDQyLCA5MC01MjAgxYHDs2TFug!5e0!3m2!1sen!2spl!4v1653514112076!5m2!1sen!2spl" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
