@@ -10,6 +10,11 @@ header-img: "img/toZabytki/12.jpg"
 comments: false
 ---
 
+## Hersza Berlińskiego 17 – Dobre chłopaki
+
+![03](../../img/toZabytki/12.jpg)
+
+
 <p>Kibolska sielanka – gatunek literacki, utwór poetycki, przedstawiający w sposób wyidealizowany uroki życia kibolskiego. Powstała z przyśpiewek kibolskich, które kreowały obraz szczęśliwego i idealnego kibicowskiego stanu. Według badaczy jest wytworem ludzi znudzonych przerwą międzysezonową. Kibolska sielanka pokazywała spełnione, agresywne i często bezrozumne życie przeciętnego kibola. Najczęściej ma formę piosenki nacechowanej wulgarnym słownictwem.</p>
 
 <p>Motywem przewodnim większości, jak nie wszystkich piosenek kibolsko-sielankowych jest wyrażenie miłości do „swojego” klubu lub pogardy do przeciwnika. Nierzadko przejawia się również temat nienawiści do więziennictwa i służb mundurowych. Na zdjęciu można zaobserwować znudzonego kibola czekającego na kolejny sezon, uczącego swojego następcy bezrozumnego oddania dla osób kopiących piłkę.

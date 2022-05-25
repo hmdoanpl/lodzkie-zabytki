@@ -10,6 +10,10 @@ header-img: "img/toZabytki/15.jpg"
 comments: false
 ---
 
+## ul. Lutomierska – Całe Bałuty nie jedzą mięsa
+
+![03](../../img/toZabytki/15.jpg)
+
 <p>Legenda głosi, że wiele lat temu, kiedy Bałuty nie należały jeszcze do Łodzi, ich tereny zamieszkiwały rodziny kanibali. Wzbudzały lęk i niepokój u mieszkańców pobliskich wsi, ponieważ porywały i zjadały ich dzieci. Łodzianie bali się o swoje pociechy, dlatego kiedy Bałuty znalazły się w granicach Łodzi, strażnicy miejscy rozprawili się raz na zawsze z kanibalami, łapiąc ich i wieszając na palach. To wydarzenie wpłynęło na mieszkańców całego regionu – Bałuty stały się najbiedniejszą i najniebezpieczniejszą dzielnicą Łodzi. Ich autochtoni żyją w strachu przed władzą, a na ulicach szerzy się przestępstwo.</p>
 
 <p> Przesłanie znajdujące się na murze „Całe Bałuty nie jedzą mięsa” jest symbolem, który nie daje zapomnieć o krwawej historii, ale podkreśla również zmiany, jakie dokonały się na tych ziemiach. Jednocześnie pokrzepia serca Bałuciarzy dając im nadzieję na lepsze jutro. Czy ta legenda jest prawdziwa? Nie wiadomo. Tak samo jak nikt nie wie, co oznacza ten napis i kto go umieścił na murze. Jedno jest pewne – kochajmy Bałuty takie jakie są.

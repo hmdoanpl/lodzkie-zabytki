@@ -11,7 +11,7 @@ comments: false
 
 ## Ul. Tamka/Pomorska – Upadek
 
-![03](/img/toZabytki/09.jpg)
+![03](../../img/toZabytki/09.jpg)
 
 <p>
 Wciąż rozwijający się świat jest wielkim niebezpieczeństwem dla nieuważnych ludzi. Przekonały się o tym niejedne „wielkie gwiazdy”, które zabłądziły w przekonaniu o swojej potędze i nieomylności. Szczególnie jest to groźne dla młodych osób, które wchodzą w świat Internetu z nadzieją, że będą kolejnymi znanymi influencerami.</p>

@@ -10,6 +10,11 @@ header-img: "img/toZabytki/16.jpg"
 comments: false
 ---
 
+## Ul. Niciarniana 37 – Park Widzewski – Reksio
+
+![03](../../img/toZabytki/16.jpg)
+
+
 <p>Łódź jako miasto, które słynie ze swoich połączeń z kinematografią i animacjami, szczyci się postaciami wykreowanymi w lokalnym studiu filmowym. Gdzieniegdzie można w mieście natknąć się na rzeźby odlane z brązu, które nawiązują do łódzkich bajek, a Miś Uszatek jest wręcz tutejszym celebrytą. Nic więc dziwnego, że twórczość mieszkańców Łodzi jest również połączona z bajkami dla dzieci. Choć sam Reksio jest postacią wykreowaną w Bielskim studiu, to idealnie pasuje do łódzkich realiów. </p>
 
 <p>Łódź jako miasto, które słynie ze swoich połączeń z kinematografią i animacjami, szczyci się postaciami wykreowanymi w lokalnym studiu filmowym. Gdzieniegdzie można w mieście natknąć się na rzeźby odlane z brązu, które nawiązują do łódzkich bajek, a Miś Uszatek jest wręcz tutejszym celebrytą. Nic więc dziwnego, że twórczość mieszkańców Łodzi jest również połączona z bajkami dla dzieci. Choć sam Reksio jest postacią wykreowaną w Bielskim studiu, to idealnie pasuje do łódzkich realiów. </p>

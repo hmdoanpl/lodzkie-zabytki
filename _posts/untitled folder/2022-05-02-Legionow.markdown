@@ -11,7 +11,7 @@ comments: false
 
 ## ul. Legionów – Muzeum Miejskie
 
-![03](/img/toZabytki/03.jpg)
+![03](../../img/toZabytki/03.jpg)
 
 <p>
 Przechadzając się po ulicach Łodzi można napotkać wiele atrakcji, które urozmaicają miejski krajobraz i nadają mu nieszablonowego wdzięku. Na Piotrkowskiej można zbłądzić pośród kamienic i natrafić na Pasaż Róży lub kolorowe witraże z przeszłych epok. Na Rudzie można odnaleźć stary, ale przyzwoicie utrzymany, mały cmentarzyk.</p>

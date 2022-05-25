@@ -11,7 +11,7 @@ comments: false
 
 ## Ul. Północna 15 – Ramówka
 
-![03](/img/toZabytki/07.jpg)
+![03](../../img/toZabytki/07.jpg)
 
 <p>
 8:00 – Dzień Zły, Łódź!

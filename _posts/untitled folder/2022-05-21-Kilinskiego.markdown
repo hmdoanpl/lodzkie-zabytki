@@ -11,7 +11,7 @@ comments: false
 
 ## ul. Kilińskiego 7 – Polski Gotyk
 
-![03](/img/toZabytki/06.jpg)
+![03](../../img/toZabytki/06.jpg)
 
 <p>
 „Jak co niedziela wybrałem się na spacer po naszej pięknej Łodzi. Znałem to miasto na pamięć, a jednak nadal potrafiło mnie zaskoczyć czymś nowym. Nie inaczej było tamtego dnia. Spacerowałem po parku Staromiejskim robiąc zdjęcia kolorowej przyrodzie. Wychodząc z zieleni na ulicę Franciszkańską poszedłem prosto, płynnie przechodząc na Kilińskiego. Tam, po krótkim spacerze, moim oczom ukazał się istny cud architektury. Willa jakby wyjęta wprost ze starych obrazów lub powieści. Obskurna, kamienna, z odpadającym tynkiem i odchodzącą farbą. Okna były zamurowane, ale nie przeszkodziło mi to w odczytaniu prawdziwego piękna tego miejsca. Byłem pewny, że dawno temu mieszkali tutaj wyjątkowi ludzie. A może nadal mieszkają? Chciałem to sprawdzić, ale za bardzo się bałem. Czego? Najpewniej spotkania tak światłych ludzi, przy których inny człowiek jest szarym zwyklakiem. Rzuciłem ostatnie spojrzenie na rozpadającą się ruinę i poszedłem dalej, wycierając oczy mokre od łez”.</p>

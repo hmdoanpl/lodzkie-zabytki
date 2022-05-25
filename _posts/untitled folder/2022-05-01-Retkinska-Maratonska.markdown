@@ -11,7 +11,7 @@ comments: false
 
 ## Ul. Retkińska/Maratońska – Odpoczynek
 
-![03](img/toZabytki/08.jpg)
+![03](../../img/toZabytki/08.jpg)
 
 <p>
 - Nic nie sprawia tyle przyjemności, co odpoczynek na łonie natury po ciężkim dniu.

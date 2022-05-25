@@ -10,6 +10,11 @@ header-img: "img/toZabytki/18.jpg"
 comments: false
 ---
 
+## ul. Smolarska – Meles Bity Frajer
+
+![03](../../img/toZabytki/18.jpg)
+
+
 <p>Każdy artysta, a szczególnie ten uliczny wie, że stacja transformatorowa to najlepsze miejsce na swoje dzieła. Na pewno wie to Meles, którego pseudonim(?) stał się centrum zainteresowania jednego z łódzkich malarzy. Ta prosta, ale dobitna forma wypowiedzi pokazuje, że nie potrzeba wiele, aby nasza sztuka zaistniała w przestrzeni publicznej.</p>
 
 <p>Performance? Happening? Łódzcy artyści mówią temu stop! Tylko żywa forma przekazu zakotwiczona w życiu publicznym ma szansę dotrzeć do serc każdego i każdej z nas. Nie można również zapominać, że uroku temu niepodważalnemu przejawowi geniuszu dodaje fakt, że znajduje się on w bliskim sąsiedztwie ze stadionem miejskim, na którym swoje mecze rozgrywa drużyna piłkarska Widzew Łódź. A jak każdy wie, sport, a w szczególności piłka nożna, to najwyższa forma kultury, która definiuje człowieka jako istotę myślącą. Meles, kimkolwiek i gdziekolwiek jesteś, z fartem.

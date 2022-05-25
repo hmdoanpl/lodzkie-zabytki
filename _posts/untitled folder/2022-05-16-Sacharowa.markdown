@@ -11,7 +11,7 @@ comments: false
 
 ## Ul. Sacharowa 67 – Stańczyk
 
-![03](img/toZabytki/17.jpg)
+![03](../../img/toZabytki/17.jpg)
 
 <p>
 Usiadł Stańczyk i zaczął myśleć – „Dlaczego tak się stało? Czy mogłem temu zaradzić? Czy jest w tym moja wina?”. Myśli te i inne pojawiały się w głowie błazna i bardzo szybko ulatywały. Nie mógł on pogodzić się z tym, co się wydarzyło. A miejsce miało coś przerażającego. Cała ludzkość zawisła na włosku i mogła runąć w każdej chwili. Historia całej cywilizacji zdawała się niknąć w cieniu zaistniałej sytuacji. Dla Stańczyka była to tragedia, która nigdy wcześniej nie miała miejsca. Wielu ludzi dziwnie się na niego patrzyło i zachodziło w głowę, czemu on się tak tym przejmuje, jednak dla niego był to powód śmiertelnie poważny. Mowa oczywiście o starych śmieciach niedbale wyrzuconych przy jednym z widzewskich bloków.</p>

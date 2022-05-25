@@ -11,7 +11,7 @@ comments: false
 
 ## Ul. Franciszkańska – Razem czy osobno?
 
-![03](img/toZabytki/19.jpg)
+![03](../../img/toZabytki/19.jpg)
 
 <p>
 Rok 2087. Wszyscy artyści przenieśli się na ulice i publikują swoje prace na murach miejskich. Czy to wina postępującego totalitaryzmu? A może rychłego upadku mediów społecznościowych? Możliwe, że obu. Wiadome jest tylko to, że sztuka dostępna na każdym kroku awansowała w dyskursie społecznym.</p>
