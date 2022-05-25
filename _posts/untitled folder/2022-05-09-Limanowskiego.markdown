@@ -12,6 +12,9 @@ comments: false
 ## Ul. Limanowskiego 15 – (R)ewolucja
 
 ![03](img/toZabytki/14.jpg)
+![03](toZabytki/14.jpg)
+![03](14.jpg)
+
 
 <p>
 Ewolucja jest naturalną cechą organizmów żywych, które rozwijają się na Ziemi. Ludzie nie są wyjątkiem i tak przez wiele tysięcy lat ewoluowaliśmy jako gatunek. Przystosowaliśmy się do życia w aktualnych warunkach i wciąż adaptujemy się do nowych. Choć sami działamy na własną niekorzyść, to można to tłumaczyć autodestrukcyjną cechą obecną w naszym gatunku. Rewolucja natomiast jest działaniem, które wykształciło się wśród ludzi nienaturalnie. Zrodziła się z ludzkich cech i zachowań. Powstała, ponieważ pewna ilość osób miała dość życia w sposób odgórnie im narzucony – zaczęła walczyć o to, co dała im ewolucja – życie. W takim razie rewolucja jest czymś pożądanym w zdominowanym społeczeństwie. Jednak samo społeczeństwo również kształtują ludzie. Po co zatem tworzyć społeczeństwo, które doprowadzi do rewolucji?
