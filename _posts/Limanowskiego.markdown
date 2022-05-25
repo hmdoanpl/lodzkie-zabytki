@@ -4,7 +4,7 @@ title:      "ul. Limanowskiego"
 subtitle:   "Powiesić - zakochać"
 active: journal
 image:
-  feature: "14.jpg"
+  feature: "img/toZabytki/14.jpg"
 date:       2016-03-20
 header-img: "img/toZabytki/14.jpg"
 comments: false

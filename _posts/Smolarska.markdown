@@ -1,14 +1,12 @@
 ---
 layout:     post
-title:      "The Wizard of Oz"
-subtitle:   "L. Frank Baum"
+title:      "ul. Smolarska"
+subtitle:   "Meles Bity Frajer"
 active: journal
 image:
-  feature: "pc003.jpg"
+  feature: "img/toZabytki/18.jpg"
 date:       2016-03-15
-header-img: "img/postcover/pc003.jpg"
-tags: [tag03, tag04]
-categories: [cat03, cat04]
+header-img: "img/toZabytki/18.jpg"
 comments: false
 ---
 
