@@ -16,4 +16,4 @@ comments: false
 (Poniżej można wstawić również mapę z zaznaczonym dokładnie miejscem).
 </p>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2468.1275315350576!2d19.436043299999994!3d51.7855553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bcabf6ca74de3%3A0xca0f6012eca1be52!2zTHV0b21pZXJza2EsIDkwLTAwMSDFgcOzZMW6!5e0!3m2!1sen!2spl!4v1653481177185!5m2!1sen!2spl" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2468.1275315350576!2d19.436043299999994!3d51.7855553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bcabf6ca74de3%3A0xca0f6012eca1be52!2zTHV0b21pZXJza2EsIDkwLTAwMSDFgcOzZMW6!5e0!3m2!1sen!2spl!4v1653481177185!5m2!1sen!2spl" width="100%" height="600" style="border:0;" allowfullscreen="1" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
