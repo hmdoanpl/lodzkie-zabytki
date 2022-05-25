@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "Ul. Legionów"
+subtitle:   "Muzeum Miejskie"
+active: journal
+image:
+  feature: "03.jpg"
+header-img: "img/toZabytki/03.jpg"
+comments: false
+---
+
+## ul. Legionów – Muzeum Miejskie
+
+![03](/img/toZabytki/03.jpg)
+
+<p>
+Przechadzając się po ulicach Łodzi można napotkać wiele atrakcji, które urozmaicają miejski krajobraz i nadają mu nieszablonowego wdzięku. Na Piotrkowskiej można zbłądzić pośród kamienic i natrafić na Pasaż Róży lub kolorowe witraże z przeszłych epok. Na Rudzie można odnaleźć stary, ale przyzwoicie utrzymany, mały cmentarzyk.</p>
+<p>
+Na Legionów można podziwiać stare, zużyte sprzęty AGD. Bezbłędne połączenie samego dzieła z jego otoczeniem stanowi o wielkim kunszcie autora. Ten jednak nie jest znany, ponieważ z dziwnych powodów wielu twórców tego odłamu artystycznego nie chce być rozpoznawanych.</p>
+<p>
+Jeśli będziemy wystarczająco uważni to podobne rzeźby odnajdziemy w wielu innych miejscach miasta, a jak będziemy mieli wystarczająco szczęścia to natrafimy również na sprzęty RTV lub stare, zniszczone meble. Serce się cieszy, kiedy ludzie tak ochoczo nadają drugie życie przedmiotom codziennego użytku.
+</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2468.8130931649234!2d19.437603900000003!3d51.77302400000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bcacc6dadf02f%3A0xcadc8d71ea187952!2zTGVnaW9uw7N3LCA5MC0wMDEgxYHDs2TFug!5e0!3m2!1sen!2spl!4v1653512129446!5m2!1sen!2spl" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

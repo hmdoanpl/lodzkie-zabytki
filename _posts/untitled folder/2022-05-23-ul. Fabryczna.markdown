@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "Ul. Fabryczna 19"
+subtitle:   "Łódzkie Lesbos"
+active: journal
+image:
+  feature: "img/toZabytki/01.jpg"
+header-img: "img/toZabytki/01.jpg"
+comments: false
+---
+
+## ul. Fabryczna 19 – Łódzkie Lesbos
+
+![01](/img/toZabytki/01.jpg)
+
+<p>
+Kultura grecka była obecna w całej Europie i poza nią. Jej śladów można doszukiwać się wśród większości ludów zamieszkałych na terenie Europy i Euroazji. Jej wpływy sięgały praktycznie całego świata starożytnego. Również wyspa Lesbos nie była wyjątkiem. Tam pojmane zostały kobiety, które następnie stały się darem dla władcy odległej krainy.
+</p>
+<p>
+Możliwe, że jedna z nich zawędrowała aż na ziemie dzisiejszej Łodzi Fabrycznej, gdyż to tam można odnaleźć niejaką Klaudynkę – potomkinię greckiej niewiasty, która siłą została wyrwana z rodzinnego domu na wyspie. Starożytnym mieszkankom Lesbos ponoć żadna inna kobieta nie mogła sprostać pod względem urody. Możliwe, że i w tym przypadku tak jest. Warto również zwrócić uwagę na fakt, że miłosny tekst został napisany przez niejakiego Greka. Może to oznaczać, że w Łodzi żyje potomstwo starożytnych Greków, którzy chcą przedłużyć swój szlachetny ród. Ależ ci Grecy są romantyczni.</p>
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.0558450500407!2d21.03809!3d52.2242032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecd02805e5607%3A0xa6b193c3e8ebe9eb!2sFabryczna%2019%2C%2000-446%20Warszawa!5e0!3m2!1sen!2spl!4v1653511886528!5m2!1sen!2spl" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
