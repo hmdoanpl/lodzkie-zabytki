@@ -4,14 +4,14 @@ title:      "Ul. Fabryczna 19"
 subtitle:   "Łódzkie Lesbos"
 active: journal
 image:
-  feature: "img/toZabytki/01.jpg"
+  feature: "01.jpg"
 header-img: "img/toZabytki/01.jpg"
 comments: false
 ---
 
 ## ul. Fabryczna 19 – Łódzkie Lesbos
 
-![01](/img/toZabytki/01.jpg)
+![01](toZabytki/01.jpg)
 
 <p>
 Kultura grecka była obecna w całej Europie i poza nią. Jej śladów można doszukiwać się wśród większości ludów zamieszkałych na terenie Europy i Euroazji. Jej wpływy sięgały praktycznie całego świata starożytnego. Również wyspa Lesbos nie była wyjątkiem. Tam pojmane zostały kobiety, które następnie stały się darem dla władcy odległej krainy.
